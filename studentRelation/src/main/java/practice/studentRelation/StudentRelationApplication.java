@@ -1,0 +1,15 @@
+package practice.studentRelation;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StudentRelationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StudentRelationApplication.class, args);
+	}
+
+
+
+}
